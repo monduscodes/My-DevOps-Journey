@@ -1,4 +1,4 @@
-# My-DevOps-Journey
+# My-Journey
 A record of my learning, and notes for reflection
 Day 1-5:
 KodeKloud learning:
