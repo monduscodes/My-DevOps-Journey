@@ -21,7 +21,9 @@ Day 9 I began the applications basics section, this seems like where the course 
 
 Day 11-15:
 I spent day 11 revisiting the labs and notes from the prior week to re-affirm the materials learned about networking basics.
-Days 12-13 were spent learning the basics about python and java. I found this challenging given that the labs asked questions that had not been covered in the lessons leading to a lot of self-led research to find context around the missing knowledge. 
+
+Days 12-13:
+Were spent learning the basics about python and java. I found this challenging given that the labs asked questions that had not been covered in the lessons leading to a lot of self-led research to find context around the missing knowledge. 
 To allow for a break from this subject I then returned to the labs about CLI basics to ensure these had been retained. Which it was aside from one particular question in the DNS Labs question 9 that asked:
 On host01, configure the system to resolve the name news to news.yahoo.com automatically without directly editing the /etc/hosts file. Implement the necessary changes to achieve this.
 I was unsure on how to complete this and the solution in the solutions tab was:
